@@ -117,7 +117,6 @@ body {
 .btn-white {
     background-color: #fff;
     color: #777;
-    margin-left: 25%;
 }
 .btn:after {
     content: "";
